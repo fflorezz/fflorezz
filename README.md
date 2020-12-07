@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋 I am a frontend developer and visual artist from Colombia.
+
+I really enjoy working on projects where I can share my passion for creating meaningful visual experiences.
+
 
 <!--
 **fflorezz/fflorezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
