@@ -2,7 +2,7 @@
 I am a frontend developer and a visual artist.
 I really enjoy creating meaningful visual experiences.
 
-![](Pajaro.png)
+![](Pajaro2.png)
 
 
 
