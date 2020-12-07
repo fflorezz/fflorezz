@@ -1,8 +1,5 @@
 ![](header.png)
-
-
-Hi there! I am a frontend developer and visual artist.
-
+###Hi there! I am a frontend developer and visual artist.
 I really enjoy working on projects where I can share my passion for creating meaningful visual experiences.
 
 
