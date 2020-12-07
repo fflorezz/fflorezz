@@ -3,6 +3,9 @@
 <h1>Hi there!!!</h1>
 <p>I am a frontend developer and visual artist.</p>
 <p>I really enjoy working on projects where I can share my passion for creating meaningful visual experiences.</p>
+</br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-fflorezz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fflorezz/)](https://www.instagram.com/roshanjayraj/)
 
 
 
