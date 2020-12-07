@@ -1,5 +1,6 @@
 <h1>Hi there!!!</h1>
-<p>I am a frontend developer and a visual artist.</p>
+
+I am a **frontend developer** and a **visual artist.**
 <p>I really enjoy working on projects where I can share my passion for creating meaningful visual experiences.</p>
 </br>
 
