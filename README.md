@@ -1,6 +1,6 @@
 <h1>Hi there!!!</h1>
-<p>I am a frontend developer and visual artist. <br><br>
-I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<p>
+<p>I am a frontend developer and visual artist. </p>
+<p>I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<p>
 
 ![](pajaro7.png)
 
