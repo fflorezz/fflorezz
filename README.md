@@ -1,6 +1,6 @@
-
-![](p9.png)  
 ![](headerblue.png)
+![](p9.png)  
+
 
 
  <h4>I am a frontend developer and visual artist. <br><br>
