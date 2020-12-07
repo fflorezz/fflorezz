@@ -3,7 +3,7 @@ I am a frontend developer and a visual artist.
 
 I really enjoy creating meaningful visual experiences.
 
-![](pajaro6.png)
+![](pajaro7.png)
 
 
 
