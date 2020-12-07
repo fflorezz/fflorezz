@@ -2,7 +2,7 @@
 <p>I am a frontend developer and visual artist.</p>
 <p>I really enjoy working on projects where I can share my passion for creating meaningful <br>visual experiences.</p>
 
-![](pajaro7.png)
+![](header4.jpg)
 
 
 
