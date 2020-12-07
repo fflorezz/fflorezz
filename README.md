@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAEPmZ-tUPE/PKkJJLBIDG_OzYXyV9PwlQ/view?utm_content=DAEPmZ-tUPE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![]("https://www.canva.com/design/DAEPmZ-tUPE/PKkJJLBIDG_OzYXyV9PwlQ/view?utm_content=DAEPmZ-tUPE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink")
 
 
 Hi there! I am a frontend developer and visual artist.
