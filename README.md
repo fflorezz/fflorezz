@@ -1,10 +1,11 @@
 
+  ![](p9.png)
   
 ![](headerblue.png)
 
 
- <P>I am a frontend developer and visual artist. <br><br>
- I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<P>
+ <h4>I am a frontend developer and visual artist. <br><br>
+ I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<h4>
 
 
 
