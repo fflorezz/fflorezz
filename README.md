@@ -1,6 +1,6 @@
 ### Hi there!!!!!
 I am a frontend developer and a visual artist.
-I really enjoy working on projects where I can share my passion for creating meaningful visual experiences.
+I really enjoy creating meaningful visual experiences.
 
 
 
