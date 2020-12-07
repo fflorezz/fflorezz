@@ -1,10 +1,8 @@
-![](hi.png)
-![](p9.png)  
+<h1>Hi there!!!</h1>
+<p>I am a frontend developer and visual artist. <br><br>
+I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<p>
 
-
-
- <h4>I am a frontend developer and visual artist. <br><br>
- I really enjoy working on projects where I can share my passion for creating <br>meaningful visual experiences.<h4>
+![](p16.png)
 
 
 
